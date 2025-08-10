@@ -5,30 +5,6 @@ Team 4A(Zhixuan Fu, Jing Liu and Ruiling Jin)
 
 A comprehensive multi-class SMS spam detection system using machine learning to identify and classify different types of spam messages. The system features both a modern GUI interface and a command-line interface for real-time SMS message analysis.
 
-## Features
-
-- **Multi-class Classification**: Detects 14+ different types of spam including:
-  - Prize/Lottery Scams
-  - Romance Scams
-  - Free Service Scams
-  - Business Executive Spoofs
-  - Subscription Scams
-  - And more...
-
-- **Advanced Feature Engineering**:
-  - 14 hand-crafted linguistic features
-  - 25 TF-IDF text features
-  - Composite scam pattern scoring
-
-- **Machine Learning**:
-  - Random Forest classifier with balanced sampling
-  - Cross-validation and performance evaluation
-  - Confidence scores and probability rankings
-
-- **Safety Features**:
-  - Detailed safety advice for each spam type
-  - Real-time analysis with instant results
-  - Debug mode for feature analysis
 
 ## Requirements
 
@@ -233,10 +209,3 @@ For issues or questions:
 3. Ensure all dependencies are installed
 4. Use debug mode for detailed analysis
 
-## Contributing
-
-To contribute:
-1. Follow the existing code structure
-2. Add comprehensive docstrings
-3. Test with various message types
-4. Update documentation as needed
